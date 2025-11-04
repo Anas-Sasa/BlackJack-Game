@@ -1,4 +1,6 @@
-### Blackjack is a card game:
+# BlackJack-Game
+
+Blackjack is a card game:
 
 > - The goal is to get a hand value as close to 21 without exceeding it.
 
